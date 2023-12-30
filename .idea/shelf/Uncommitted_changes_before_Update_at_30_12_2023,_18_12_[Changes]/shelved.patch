@@ -1,0 +1,69 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"c21aa58f-e246-444b-a09b-1c808d30aa0d\" name=\"Changes\" comment=\"Create database Airoport, Flight and create simple template\">\n      <change afterPath=\"$PROJECT_DIR$/airline/flights/templates/flights/flight.html\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/airline/db.sqlite3\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/airline/db.sqlite3\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/airline/flights/admin.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/airline/flights/admin.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/airline/flights/models.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/airline/flights/models.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/airline/flights/templates/flights/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/airline/flights/templates/flights/index.html\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/airline/flights/url.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/airline/flights/url.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/airline/flights/views.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/airline/flights/views.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\n  \"lastFilter\": {\n    \"state\": \"OPEN\",\n    \"assignee\": \"andrejcurkan\"\n  }\n}]]></component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"51b2755c-5cd1-40bf-8c27-63a88ed588f5\" />\n        <option name=\"url\" value=\"https://github.com/andrejcurkan/DjangoProgectAirline.git\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"ProjectColorInfo\"><![CDATA[{\n  \"associatedIndex\": 8\n}]]></component>\n  <component name=\"ProjectId\" id=\"2aFoTUa89dgSwQLYe7wMCQKJJo3\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\"\n  }\n}]]></component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"c21aa58f-e246-444b-a09b-1c808d30aa0d\" name=\"Changes\" comment=\"\" />\n      <created>1703923703053</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1703923703053</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Create database Airoport, Flight and create simple template\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1703941372978</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703941372979</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Create database Airoport, Flight and create simple template\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1703941728440</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703941728440</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Create database Airoport, Flight and create simple template\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1703942354649</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703942354649</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"4\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Create database Airoport, Flight and create simple template\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Create database Airoport, Flight and create simple template\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 6b855a844beceabd887cc8ff28125ed8b9c72d36)
++++ b/.idea/workspace.xml	(date 1703952740437)
+@@ -4,16 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c21aa58f-e246-444b-a09b-1c808d30aa0d" name="Changes" comment="Create database Airoport, Flight and create simple template">
+-      <change afterPath="$PROJECT_DIR$/airline/flights/templates/flights/flight.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/airline/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/airline/db.sqlite3" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/airline/flights/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/admin.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/airline/flights/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/models.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/airline/flights/templates/flights/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/templates/flights/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/airline/flights/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/url.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/airline/flights/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/views.py" afterDir="false" />
+-    </list>
++    <list default="true" id="c21aa58f-e246-444b-a09b-1c808d30aa0d" name="Changes" comment="Create database Airoport, Flight and create simple template" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -103,7 +94,31 @@
+       <option name="project" value="LOCAL" />
+       <updated>1703942354649</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Create database Airoport, Flight and create simple template">
++      <option name="closed" value="true" />
++      <created>1703952606942</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1703952606942</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Create database Airoport, Flight and create simple template">
++      <option name="closed" value="true" />
++      <created>1703952703694</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1703952703694</updated>
++    </task>
++    <task id="LOCAL-00006" summary="Create database Airoport, Flight and create simple template">
++      <option name="closed" value="true" />
++      <created>1703952739977</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1703952739977</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -118,6 +133,7 @@
+     </option>
+   </component>
+   <component name="VcsManagerConfiguration">
++    <MESSAGE value="Create database Passengers" />
+     <MESSAGE value="Create database Airoport, Flight and create simple template" />
+     <option name="LAST_COMMIT_MESSAGE" value="Create database Airoport, Flight and create simple template" />
+   </component>
