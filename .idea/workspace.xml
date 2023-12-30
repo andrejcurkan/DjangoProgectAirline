@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c21aa58f-e246-444b-a09b-1c808d30aa0d" name="Changes" comment="Create database Airoport, Flight and create simple template" />
+    <list default="true" id="c21aa58f-e246-444b-a09b-1c808d30aa0d" name="Changes" comment="Create database Airoport, Flight and create simple template">
+      <change afterPath="$PROJECT_DIR$/airline/flights/templates/flights/flight.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/airline/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/flights/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/flights/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/flights/templates/flights/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/templates/flights/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/flights/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/flights/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +28,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "andrejcurkan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="51b2755c-5cd1-40bf-8c27-63a88ed588f5" />
+        <option name="url" value="https://github.com/andrejcurkan/DjangoProgectAirline.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -64,7 +87,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703941372979</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create database Airoport, Flight and create simple template">
+      <option name="closed" value="true" />
+      <created>1703941728440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703941728440</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create database Airoport, Flight and create simple template">
+      <option name="closed" value="true" />
+      <created>1703942354649</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703942354649</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
