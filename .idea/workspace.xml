@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c21aa58f-e246-444b-a09b-1c808d30aa0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoProjectAirline.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airline/airline/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airline/airline/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airline/airline/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airline/airline/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airline/airline/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airline/flights/templates/flights/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airline/flights/templates/flights/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airline/flights/url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airline/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="c21aa58f-e246-444b-a09b-1c808d30aa0d" name="Changes" comment="Create database Airoport, Flight and create simple template" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +36,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -71,6 +56,30 @@
       <option name="presentableId" value="Default" />
       <updated>1703923703053</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create database Airoport, Flight and create simple template">
+      <option name="closed" value="true" />
+      <created>1703941372978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703941372979</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create database Airoport, Flight and create simple template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create database Airoport, Flight and create simple template" />
   </component>
 </project>
